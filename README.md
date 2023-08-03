@@ -1,1 +1,1 @@
-# project-7-html-css-js
+put images in ' images ' name folder
